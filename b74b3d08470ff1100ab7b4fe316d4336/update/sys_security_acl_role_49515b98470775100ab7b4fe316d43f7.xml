@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 21:18:14</sys_created_on>
+        <sys_id>49515b98470775100ab7b4fe316d43f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>.task_editor</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1251014_gest_o_0">b74b3d08470ff1100ab7b4fe316d4336</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">b74b3d08470ff1100ab7b4fe316d4336</sys_scope>
+        <sys_security_acl display_value="x_1251014_gest_o_0_u_pedidos">34419398470775100ab7b4fe316d43bd</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_49515b98470775100ab7b4fe316d43f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 21:18:14</sys_updated_on>
+        <sys_user_role display_value="task_editor" name="task_editor">0956f6390a0a0bc50064623d5d51c556</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
