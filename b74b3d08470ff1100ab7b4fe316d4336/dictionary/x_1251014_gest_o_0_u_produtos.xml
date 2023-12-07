@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4fde3d0c470ff1100ab7b4fe316d4351" label="Produtos" max_length="40" name="x_1251014_gest_o_0_u_produtos" type="collection">
+        <element label="Imagem" max_length="40" name="imagem" type="user_image"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Item" max_length="40" name="item" type="string"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2e530680474ff1100ab7b4fe316d43e4" extends="task" label="Pedidos" max_length="40" name="x_1251014_gest_o_0_u_pedidos" type="collection">
+        <element default="0" label="Entrega" max_length="40" name="entrega" type="boolean"/>
+        <element label="Produto" max_length="32" name="reference" reference="x_1251014_gest_o_0_u_produtos" type="reference"/>
+    </element>
+</database>
